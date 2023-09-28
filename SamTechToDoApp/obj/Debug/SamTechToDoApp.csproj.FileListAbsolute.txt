@@ -1,0 +1,30 @@
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\bin\Debug\SamTechToDoApp.exe.config
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\bin\Debug\SamTechToDoApp.exe
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\bin\Debug\SamTechToDoApp.pdb
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.Form1.resources
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.Properties.Resources.resources
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.GenerateResource.cache
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.exe
+C:\Users\user1\source\repos\Assignment\Test\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.pdb
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\SamTechToDoApp.exe.config
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\SamTechToDoApp.exe
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\SamTechToDoApp.pdb
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\ToDoList.Data.dll
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\ToDoList.Data.pdb
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\ToDoList.Data.dll.config
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.Form1.resources
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.Properties.Resources.resources
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.csproj.CopyComplete
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.exe
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\SamTechToDoApp\obj\Debug\SamTechToDoApp.pdb

@@ -1,0 +1,14 @@
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\bin\Debug\ToDoList.Data.dll.config
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\bin\Debug\ToDoList.Data.dll
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\bin\Debug\ToDoList.Data.pdb
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\bin\Debug\EntityFramework.dll
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\bin\Debug\EntityFramework.xml
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\obj\Debug\ToDoList.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\obj\Debug\ToDoList.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\obj\Debug\ToDoList.Data.csproj.CopyComplete
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\obj\Debug\ToDoList.Data.dll
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\obj\Debug\ToDoList.Data.pdb
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\obj\Debug\ToDoList.Data.Migrations.migrate1.resources
+C:\Users\user1\Desktop\Decagon Task\week-6-task-SAMTEC15\SamTechToDo\ToDoList.Data\obj\Debug\ToDoList.Data.csproj.GenerateResource.cache
